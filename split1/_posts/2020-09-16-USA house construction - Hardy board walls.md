@@ -1,0 +1,9 @@
+---
+layout: post
+title: USA house construction - Hardy board walls
+youtubeId: DM3pYz8L7tk
+---
+
+{% include youtubePlayer.html id=page.youtubeId %}
+
+[Next]({{ site.baseurl }}{% link split1/_posts/2020-09-15-USA house construction -Garage unfinished.md%})
