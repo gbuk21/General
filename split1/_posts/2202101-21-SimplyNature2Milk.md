@@ -1,6 +1,8 @@
 ---
 layout: post
+
 title: Aldi's Simplay Nature organic 2 Percent milk with DHA
+
 ----
 
 Aldi's Simplay Nature organic 2 Percent milk with DHA.
