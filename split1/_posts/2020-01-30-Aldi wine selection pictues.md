@@ -16,12 +16,11 @@ Aldi wine selection
 
 <img src="{{ site.baseurl }}/images/ALDI Wine collection 5.jpg" class="responsive" width="500" height="400" />
 
-Evanta Malbec priced at $4.49
+Evanta Malbec priced at $4.49  with a tastings review rating of 90 points.
 
 <img src="{{ site.baseurl }}/images/ALDI Wine collection 6.jpg" class="responsive" width="500" height="400" />
 
-
-Dancing flame red blend priced at $5.99
+Dancing flame red blend priced at $5.99  with a tastings review rating of 87 points.
 
 <img src="{{ site.baseurl }}/images/ALDI Wine collection 7.jpg" class="responsive" width="500" height="400" />
 
