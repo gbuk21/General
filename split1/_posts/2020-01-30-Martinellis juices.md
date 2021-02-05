@@ -1,0 +1,16 @@
+---
+layout: post
+title: Martinelli's juices
+---
+
+Martinelli's juices sold in Publix
+
+<img src="{{ site.baseurl }}/images/Martinelli1.jpg" class="responsive" width="500" height="400" />
+
+<img src="{{ site.baseurl }}/images/Martinelli2.jpg" class="responsive" width="500" height="400" />
+
+
+<img src="{{ site.baseurl }}/images/Martinelli3.jpg" class="responsive" width="500" height="400" />
+
+
+<img src="{{ site.baseurl }}/images/Martinelli4.jpg" class="responsive" width="500" height="400" />
