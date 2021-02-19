@@ -1,7 +1,7 @@
 ---
 layout: post
 title: USA house construction - load bearing walls
-youtubeId: 4877DA3X9mE
+youtubeId: ovOTM6SFsMM
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
