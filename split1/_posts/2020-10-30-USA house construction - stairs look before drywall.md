@@ -5,3 +5,5 @@ youtubeId: i3j4JfbTp8E
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
+
+[Next]({{ site.baseurl }}{% link split1/_posts/2020-10-30-USA house construction - Kitchen before counter setup.md%})
