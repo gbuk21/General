@@ -6,4 +6,4 @@ youtubeId: YfkUIu7t7ek
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-[Next]({{ site.baseurl }}{% link split1/_posts/2020-11-01-USA house construction - after walls, framing,roofing done.md%})
+[Next]({{ site.baseurl }}{% link split1/_posts/2020-10-30-USA house construction - stairs look before drywall.md%})
