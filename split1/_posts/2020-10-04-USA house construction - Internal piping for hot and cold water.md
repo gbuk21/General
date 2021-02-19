@@ -5,3 +5,5 @@ youtubeId: JvWZY0gD5jw
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
+
+[Next]({{ site.baseurl }}{% link split1/_posts/2020-10-03-USA house construction - Bricks used on outside walls.md%})
