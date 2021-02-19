@@ -5,3 +5,5 @@ youtubeId: OW80oQu0RQM
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
+
+[Next]({{ site.baseurl }}{% link split1/_posts/2020-10-15-USA house construction - subflooring before hardwood, EVP, carpet installed .md%})
