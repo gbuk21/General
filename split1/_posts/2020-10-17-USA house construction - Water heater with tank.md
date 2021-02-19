@@ -5,3 +5,5 @@ youtubeId: uzIYStJyhKs
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
+
+[Next]({{ site.baseurl }}{% link split1/_posts/2020-10-16-USA house construction - Kitchen after cabinet, island installed.md%})
