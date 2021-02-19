@@ -5,3 +5,5 @@ youtubeId: ZsXkD_5GQVc
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
+
+[Next]({{ site.baseurl }}{% link split1/_posts/2020-10-17-USA house construction - Water heater with tank.md%})
