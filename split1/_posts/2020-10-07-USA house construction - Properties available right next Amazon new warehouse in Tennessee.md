@@ -6,4 +6,4 @@ youtubeId: 5i9CKkMBPOU
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-[Next]({{ site.baseurl }}{% link split1/_posts/2020-10-06-USA house construction - Electric pole maintenance - Cranes used%})
+[Next]({{ site.baseurl }}{% link split1/_posts/2020-10-06-USA house construction - Electric pole maintenance - Cranes used.md%})
