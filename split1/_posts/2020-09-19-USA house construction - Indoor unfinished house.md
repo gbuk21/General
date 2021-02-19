@@ -1,7 +1,7 @@
 ---
 layout: post
 title: USA house construction - Indoor unfinished house
-youtubeId: C9MLc3Zz6K0
+youtubeId: oXxCIxBCQCc
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
