@@ -1,7 +1,7 @@
 ---
 layout: post
 title: USA house construction - Install bricks
-youtubeId: tDKe2qcmT88
+youtubeId: 9SSbjGG7W_E
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
