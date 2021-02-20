@@ -34,3 +34,4 @@ title: అమెరికా ఇంటి నిర్మాణం - కలప �
 <img src="{{ site.baseurl }}/images/USA housing construction wood quality 13.jpg" class="responsive" width="500" height="400" />
 
 
+[Next]({{ site.baseurl }}{% link split1/_posts/2020-08-29-Simply Nature organic 2 Percent milk with DHA from Aldi.md %})
