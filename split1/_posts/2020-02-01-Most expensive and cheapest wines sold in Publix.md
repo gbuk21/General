@@ -18,3 +18,4 @@ Most expensive and cheapest wines sold in Publix
 <img src="{{ site.baseurl }}/images/Perrier Jouet Grand Brut.jpg" class="responsive" width="500" height="400" />
 
 
+[Next]({{ site.baseurl }}{% link split1/_posts/2020-02-01-Most expensive and cheapest wines sold in Aldi.md %})
