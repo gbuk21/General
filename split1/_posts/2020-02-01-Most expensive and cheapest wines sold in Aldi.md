@@ -19,3 +19,5 @@ Most expensive and cheapest wines sold in Aldi
 
 
 <img src="{{ site.baseurl }}/images/30 Miles Cabernet Sauvignon1.jpg" class="responsive" width="500" height="400" />
+
+[Next]({{ site.baseurl }}{% link split1/_posts/2020-02-01-Cheapest wines sold in Walmart.md %})
