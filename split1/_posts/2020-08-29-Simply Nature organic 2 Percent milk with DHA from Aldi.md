@@ -13,4 +13,3 @@ Nutrition facts
 
 <img src="{{ site.baseurl }}/images/Simplay Nature organic 2 Percent milk with DHA 3.jpg" class="responsive" width="500" height="400" />
 
-[Next]({{ site.baseurl }}{% link split1/_posts/2020-08-28-Deers in the backyard 2.md %})
