@@ -1,7 +1,7 @@
 ---
 layout: post
 title: USA house construction - Hardy board walls
-youtubeId: DM3pYz8L7tk
+youtubeId: ncCwvZVh0Jk
 ---
 
 {% include youtubePlayer.html id=page.youtubeId %}
