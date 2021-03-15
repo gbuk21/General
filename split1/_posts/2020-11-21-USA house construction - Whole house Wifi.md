@@ -4,7 +4,7 @@ title: USA house construction - Whole house Wifi
 youtubeId: T0DE3LZXIqs
 ---
  
-In this video, you will see how snow melts faster near sewer vents.
+In this video, you will see what is required to setup whole house WIFI
  
  
  
