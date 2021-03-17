@@ -4,7 +4,7 @@ title: USA life - Kids playing at a mall
 youtubeId: wTi9RFCHcig
 ---
  
-In this video, you will see how in ceiling speaker system looks.
+In this video, you will see kids playing in mall area.
  
  
  
