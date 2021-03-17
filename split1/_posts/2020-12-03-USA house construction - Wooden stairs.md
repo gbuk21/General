@@ -4,7 +4,7 @@ title: USA house construction - Wooden stairs
 youtubeId: fMa3TsB1Mtw
 ---
  
-In this video, you will see how ceiling fans look in USA.
+In this video, you will see how wooden stairs look in USA houses.
  
  
  
