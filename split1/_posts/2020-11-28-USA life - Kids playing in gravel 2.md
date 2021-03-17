@@ -4,7 +4,7 @@ title: USA life - Kids playing in gravel 2
 youtubeId: BFPvPFDNMcI
 ---
  
-In this video, you will see snow accumulating on an AC machine.
+In USA, malls have play areas. In this video, you will see kids playing in the play areas.
  
  
  
