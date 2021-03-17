@@ -4,7 +4,7 @@ title: USA house construction - carpet on second floor
 youtubeId: nj_oW7Kydtg
 ---
  
-In this video, you will see snow accumulating on an AC machine.
+In this video, you will see the carpet installed on second floor of the house. Usually hardwood flooring on the first floor/Ground floor and carpet on the second so it does not make loud nouses when walking etc.
  
  
  
