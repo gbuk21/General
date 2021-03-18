@@ -4,7 +4,7 @@ title: USA life Dolphin jump in the air
 youtubeId: H-18xEZ8zD8
 ---
  
-In this video, you will see the vinyl plank floors used instead of hardwood floors. 
+In this video, you will see doplhin jumping into air.
  
  
  
