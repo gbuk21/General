@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Aldi wine selection
-last_modified_at: 2021-03-24
 ---
+
 
 Aldi wine selection
 
@@ -50,3 +50,8 @@ Outlander heritage - priced at $7.99 with a tastings review rating of 88 points.
 <img src="{{ site.baseurl }}/images/ALDI Wine collection 13.jpg" class="responsive" width="500" height="400" />
 
 [Next]({{ site.baseurl }}{% link split1/_posts/2020-11-09- USA house construction - supporting beams made of wood.md %})
+
+
+
+{{ page.last_modified_at | date: '%Y:%B:%A:%d:%S:%R' }}
+
