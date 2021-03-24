@@ -2,7 +2,7 @@
 layout: post
 title: Aldi wine selection
 ---
-
+{% last_modified_at %}
 
 Aldi wine selection
 
