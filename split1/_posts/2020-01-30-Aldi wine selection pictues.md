@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aldi wine selection
-last_modified_at:2021-03-24
+last_modified_at: 2021-03-24
 ---
 
 Aldi wine selection
