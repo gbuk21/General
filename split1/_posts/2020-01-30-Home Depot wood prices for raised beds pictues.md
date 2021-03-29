@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Home Depot wood prices for raised beds 
+last_modified_at: 2021-03-29
 ---
 
 <H3>Home Depot wood prices for raised beds </H3>
@@ -25,3 +26,5 @@ Dog Ear PT picket - Comes in 0.625 in X 5.5 in X 8 ft - priced at $2.97
 
 
 [Next]({{ site.baseurl }}{% link split1/_posts/2020-01-30-Aldi wine selection pictues.md %})
+
+{{ page.last_modified_at | date: '%Y:%B:%A:%d:%S:%R' }}
