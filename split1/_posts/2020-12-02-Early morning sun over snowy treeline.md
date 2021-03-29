@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2021-03-29
 layout: post
 title: Early morning sun over snowy treeline
 youtubeId: IFgFvoR1a4A

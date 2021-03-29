@@ -3,7 +3,6 @@ last_modified_at: 2021-03-29
 layout: post
 title: Deers in the backyard 2
 youtubeId: TXIetM9sjjc
-last_modified_at: 2021-03-28
 ---
  
  
