@@ -1,7 +1,7 @@
 ---
 last_modified_at: 2021-05-01
 layout: post
-title: test
+title: Bhagavadgita based crossword puzzle 1
 ---
 <style>
 * { 
@@ -1064,7 +1064,7 @@ th {
 </form>
 <br><br><br>
 <Table>
-<caption align=bottom>Clues</caption>
+<caption align=top>Clues</caption>
 <tr><th>Clue No</th><th>Column#</th><th>Row#</th><th>Down/Across</th><th>Clue</th></tr>
 <tr><td>
 1
