@@ -329,3 +329,6 @@ Lord Shiva pictures abstract
 <img src="{{ site.baseurl }}/images/Lord Shiva293.jpg" class="responsive" width="500" height="400" />
 <img src="{{ site.baseurl }}/images/Lord Shiva183.jpg" class="responsive" width="500" height="400" />
 <img src="{{ site.baseurl }}/images/Lord Shiva121.jpg" class="responsive" width="500" height="400" />
+
+
+[Next]({{ site.baseurl }}{% link split1/_posts/2020-12-19-USA life - High rises with beach view .md %})
