@@ -1,9 +1,12 @@
 ---
-last_modified_at: 2021-03-29
+last_modified_at: 2021-06-22
 layout: post
 title: USA house construction - Attic whatsapp status
 youtubeId: 21Ow3LVlSU4
 ---
+
+
+This video shows how the attic is setup in an american house under construction.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
