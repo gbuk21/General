@@ -1,9 +1,11 @@
 ---
-last_modified_at: 2021-03-29
+last_modified_at: 2021-06-22
 layout: post
 title: USA house construction - air vents
 youtubeId: l5fPhHTpdJ4
 ---
+
+This video talks about air vents in circulating fresh air and temperature controlled air.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
