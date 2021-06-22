@@ -5,6 +5,8 @@ title: USA house construction - loading construction debris to a dump truck what
 youtubeId: 1NS5MMDMNB4
 ---
 
+This video shows loading construction debris to a dump truck.
+
 {% include youtubePlayer.html id=page.youtubeId %}
 
 [Next]({{ site.baseurl }}{% link split1/_posts/2020-11-10- New Amazon warehouse in Tennessee.md%})
