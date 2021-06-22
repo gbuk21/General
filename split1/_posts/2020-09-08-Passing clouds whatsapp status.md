@@ -5,6 +5,7 @@ title: Passing clouds whatsapp status
 youtubeId: ChRBNlvl6UI
 ---
 
+This video shows passing clouds.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
