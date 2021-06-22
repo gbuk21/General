@@ -1,9 +1,12 @@
 ---
-last_modified_at: 2021-03-29
+last_modified_at: 2021-06-22
 layout: post
 title: USA house construction - concrete driveway freshly paved  whatsapp status
 youtubeId: 4ibbqVKJluk
 ---
+
+
+This video shows freshly paved concrete driveway in an american house under construction.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
