@@ -5,6 +5,8 @@ title: USA house construction - Hardi siding vs Brick siding comparison whatsapp
 youtubeId: JGUz9jOdzFc
 ---
 
+This video talks about the comparisons between Hardi siding vs Brick siding
+
 {% include youtubePlayer.html id=page.youtubeId %}
 
 [Next]({{ site.baseurl }}{% link split1/_posts/2020-09-19-Snow day - Making chocolate dipped strawberries whatsapp status.md %})
