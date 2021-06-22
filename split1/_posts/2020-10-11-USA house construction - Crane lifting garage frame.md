@@ -1,9 +1,12 @@
 ---
-last_modified_at: 2021-03-29
+last_modified_at: 2021-06-22
 layout: post
 title: USA house construction - Crane lifting garage House frame whatsapp status
 youtubeId: 0VL0HEbOhV4
 ---
+
+
+This video shows how a crane is lifting garage House fram in an american house under construction.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
