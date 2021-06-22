@@ -5,6 +5,8 @@ title: USA house construction - framing the house whatsapp status
 youtubeId: k_NjBRnOzgY
 ---
 
+This video shows how in USA house constructions, frames are setup.
+
 {% include youtubePlayer.html id=page.youtubeId %}
 
 [Next]({{ site.baseurl }}{% link split1/_posts/2020-11-02-USA house construction - after walls, framing,roofing done.md%})
