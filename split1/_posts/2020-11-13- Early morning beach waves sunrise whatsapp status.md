@@ -5,7 +5,7 @@ title: Early morning beach waves sunrise whatsapp status
 youtubeId: VJbFGDYxGy0
 ---
 
-This video shot on a beach during early morning visit during sunrise.
+This video was shot on a beach during early morning visit during sunrise.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
