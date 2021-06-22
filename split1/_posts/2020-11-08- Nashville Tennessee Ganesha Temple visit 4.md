@@ -4,6 +4,7 @@ layout: post
 title: Nashville Tennessee Ganesha Temple visit 4 whatsapp status
 youtubeId: 2dz0hxogOwo
 ---
+Lord Ganesha temple located in Nashville TN USA
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
