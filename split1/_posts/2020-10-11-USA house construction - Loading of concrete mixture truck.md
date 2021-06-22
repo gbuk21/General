@@ -1,9 +1,12 @@
 ---
-last_modified_at: 2021-03-29
+last_modified_at: 2021-06-22
 layout: post
 title: USA house construction - Loading of concrete mixture truck whatsapp status
 youtubeId: eqHywLzsQ6Q
 ---
+
+
+This video shows Loading of concrete mixture truck.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
