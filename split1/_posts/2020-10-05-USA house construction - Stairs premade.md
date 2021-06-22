@@ -1,9 +1,11 @@
 ---
-last_modified_at: 2021-03-29
+last_modified_at: 2021-06-22
 layout: post
 title: USA house construction - Stairs premade whatsapp status
 youtubeId: eu5mXulbb5c
 ---
+
+This video shows precast stairs.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
