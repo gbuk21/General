@@ -5,9 +5,8 @@ title: USA house construction - kitchen, family room after dry wallwhatsapp stat
 youtubeId: bTEyYIhKtBY
 ---
 
+This video shows kitchen, family room after dry wall in an american house under construction.
 
- This video shows kitchen, family room after dry wall in an american house under construction
- .
  
 {% include youtubePlayer.html id=page.youtubeId %}
 
