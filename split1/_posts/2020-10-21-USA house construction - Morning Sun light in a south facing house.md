@@ -5,8 +5,8 @@ title: USA house construction - Morning Sun light in a south facing house whatsa
 youtubeId: ttVbkvfOPH0
 ---
 
+This video shows morning Sun light in a south facing house.
 
-This video shows morning Sun light in a south facing house
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
