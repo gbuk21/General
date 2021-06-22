@@ -1,9 +1,12 @@
 ---
-last_modified_at: 2021-03-29
+last_modified_at: 2021-06-22
 layout: post
 title: USA house construction - Foam used for insulation whatsapp status
 youtubeId: LIbWP9nBCNc
 ---
+
+
+This video shows Foam used for insulation in an american house under construction.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
