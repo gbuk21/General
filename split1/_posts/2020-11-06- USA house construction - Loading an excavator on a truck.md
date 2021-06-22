@@ -5,6 +5,8 @@ title: USA house construction - Loading an excavator on a truck whatsapp status
 youtubeId: tAF9NBa_KU8
 ---
 
+This video shows how an excavator is loaded on to a hauling truck.
+
 {% include youtubePlayer.html id=page.youtubeId %}
 
 [Next]({{ site.baseurl }}{% link split1/_posts/2020-11-05- USA house construction - how trees look in winter.md%})
