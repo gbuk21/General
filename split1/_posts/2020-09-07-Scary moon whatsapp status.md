@@ -7,8 +7,7 @@ youtubeId: PjtGuh32hr8
  
  
  
- 
- 
+ This video shows night rain, lightning and thunderstorms.
 
 
 {% include youtubePlayer.html id=page.youtubeId %}
