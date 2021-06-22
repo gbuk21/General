@@ -1,9 +1,11 @@
 ---
-last_modified_at: 2021-03-29
+last_modified_at: 2021-06-22
 layout: post
 title: USA house construction -Garage unfinished
 youtubeId: JD48C79uWJs
 ---
+
+This video depicts an unfinished garage during an american house construction.
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
