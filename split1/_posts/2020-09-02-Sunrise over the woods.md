@@ -10,7 +10,7 @@ youtubeId: F_GmMvb8s6U
  
  
  
- 
+ This video depicts morning sunrise over backyard woods.
 
 
 {% include youtubePlayer.html id=page.youtubeId %}
