@@ -1,7 +1,7 @@
 ---
 last_modified_at: 2021-06-22
 layout: post
-title: How to check which Oracle sql execution plans used a given object in question?
+title: Check Oracle execution plan is using given index
 ---
 
 <H4>How to check which Oracle sql execution plans used a given object in question?</H4>
