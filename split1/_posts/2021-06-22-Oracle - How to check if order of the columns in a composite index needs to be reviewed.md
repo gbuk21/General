@@ -1,7 +1,7 @@
 ---
 last_modified_at: 2021-06-22
 layout: post
-title: Oracle - How to check if order of the columns in a composite index needs to be reviewed?
+title: Oracle - Column order issues in Oracle composite index
 ---
 
 <H4>How to check if order of the columns in a composite index needs to be reviewed?</H4>
