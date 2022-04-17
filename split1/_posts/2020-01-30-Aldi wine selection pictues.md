@@ -6,6 +6,9 @@ title: Aldi wine selection
 
 Aldi wine selection
 
+<iframe id="x" src="https://content.tupaki.com//twdata/2022/0422/photos/actress/Anu%20Emmanuel%20Latest%20Photos/normal/Anu%20Emmanuel%20Latest%20Photos_11.jpg" width="600" height="800" marginwidth="0" marginheight="0" frameborder="no" scrolling="yes">
+</iframe>
+     
 <img src="{{ site.baseurl }}/images/ALDI Wine collection 1.jpg" class="responsive" width="500" height="400" />
 
 <img src="{{ site.baseurl }}/images/ALDI Wine collection 2.jpg" class="responsive" width="500" height="400" />
