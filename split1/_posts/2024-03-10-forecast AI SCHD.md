@@ -1,0 +1,13 @@
+---
+last_modified_at: 2024-03-10
+layout: post
+title: SCHD projected returns for next 30 years using AI
+youtubeId: z8ht7xnouR8
+---
+
+4% rule backtesting with funds in QQQ and Vanguard total bond funds.
+
+Please note that I am not a financial advisor. Please do your analysis before taking any actions based on the info presented in the video. This video is for entertainment purposes only.
+
+{% include youtubePlayer.html id=page.youtubeId %}
+
