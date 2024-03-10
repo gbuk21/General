@@ -1,4 +1,3 @@
-split1/_posts/2024-03-10-backtestingSandP.md
 ---
 last_modified_at: 2024-03-10
 layout: post
